@@ -1,0 +1,9 @@
+{
+    "extends": ["tslint:recommended"],
+    "rules": {
+      "no-console": false,
+      "indent": [true, "spaces", 2],
+      "semicolon": [true, "always"],
+      "quotemark": [true, "double"]
+    }
+  }
